@@ -1,0 +1,1 @@
+//playerhpdraw = with(obj_enemy) playerhp;
